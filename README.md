@@ -1,2 +1,2 @@
-# happymonk_task
+# Happymonk_task
 Each folder contains the .ipynb for the corresponding tasks. 
